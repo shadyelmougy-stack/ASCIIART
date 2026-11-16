@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # ASCII Art
 
@@ -83,3 +84,6 @@ The program also supports Shadow and Thinkertoy banner styles.
 
 ## Author
 Shady Elmougy
+=======
+# ASCIIART
+>>>>>>> 9e7de68080aedf6622b69035d9780bf71532d2b9
